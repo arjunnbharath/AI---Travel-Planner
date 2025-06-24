@@ -92,16 +92,8 @@ All processing is done locally:
 ## 📜 License
 - MIT License — free to use, modify, and share.
 ## 👨‍💻 Author
-- Built with ❤️ by [ARJUN BHARATH SR]
+- Built by ARJUN BHARATH SR
 
 - Feel free to fork, extend, or contribute!
-```bash
 
----
-
-Would you like:
-- This README as a **downloadable file**?
-- A **GIF demo** section added?
-- Automatic environment checks (e.g., "is Ollama running?" alerts)?
-
-Let me know and I can add more polish!
+- Let me know and I can add more polish!
